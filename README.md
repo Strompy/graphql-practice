@@ -1,5 +1,6 @@
 # Graphql Practice
 Introductory repo to GraphQL based on this [tutorial](https://www.digitalocean.com/community/tutorials/a-practical-graphql-getting-started-guide-with-nodejs)
+
 Thanks to John Kariuki
 
 ## Hot to run
