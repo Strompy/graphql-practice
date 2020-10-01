@@ -5,5 +5,5 @@ Thanks to John Kariuki
 
 ## How to run
 1. Clone this repo to your local
-2. Run the server with `node server.js`
+2. Run the server with `$ node server.js`
 3. Opne your browser and navigate to `localhost:4000/graphql`
