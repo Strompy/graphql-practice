@@ -3,7 +3,7 @@ Introductory repo to GraphQL based on this [tutorial](https://www.digitalocean.c
 
 Thanks to John Kariuki
 
-## Hot to run
+## How to run
 1. Clone this repo to your local
 2. Run the server with `node server.js`
 3. Opne your browser and navigate to `localhost:4000/graphql`
